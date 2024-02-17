@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:19,114 - Branches Intro.mp4
+lectures/Branches/114%20-%20Branches%20Intro.mp4
+#EXTINF:266,115 - Branch in a Pipeline.mp4
+lectures/Branches/115%20-%20Branch%20in%20a%20Pipeline.mp4
+#EXTINF:60,116 - Branch Prediction Requirements.mp4
+lectures/Branches/116%20-%20Branch%20Prediction%20Requirements.mp4
+#EXTINF:306,117 - Branch Prediction Accuracy.mp4
+lectures/Branches/117%20-%20Branch%20Prediction%20Accuracy.mp4
+#EXTINF:49,118 - Branch Prediction Benefit Quiz Question.mp4
+lectures/Branches/118%20-%20Branch%20Prediction%20Benefit%20Quiz%20Question.mp4
+#EXTINF:127,119 - Branch Prediction Benefit Quiz Solution.mp4
+lectures/Branches/119%20-%20Branch%20Prediction%20Benefit%20Quiz%20Solution.mp4
+#EXTINF:89,120 - Performance With Not Taken Prediction.mp4
+lectures/Branches/120%20-%20Performance%20With%20Not%20Taken%20Prediction.mp4
+#EXTINF:94,121 - Multiple Predictions Quiz Question.mp4
+lectures/Branches/121%20-%20Multiple%20Predictions%20Quiz%20Question.mp4
+#EXTINF:136,122 - Multiple Predictions Quiz Solution.mp4
+lectures/Branches/122%20-%20Multiple%20Predictions%20Quiz%20Solution.mp4
+#EXTINF:94,123 - Predict Not Taken.mp4
+lectures/Branches/123%20-%20Predict%20Not%20Taken.mp4
+#EXTINF:279,124 - Why We Need Better Prediction.mp4
+lectures/Branches/124%20-%20Why%20We%20Need%20Better%20Prediction.mp4
+#EXTINF:51,125 - Predictor Impact Quiz Question.mp4
+lectures/Branches/125%20-%20Predictor%20Impact%20Quiz%20Question.mp4
+#EXTINF:110,126 - Predictor Impact Quiz Solution.mp4
+lectures/Branches/126%20-%20Predictor%20Impact%20Quiz%20Solution.mp4
+#EXTINF:88,127 - Why We Need Better Predicition Part 2.mp4
+lectures/Branches/127%20-%20Why%20We%20Need%20Better%20Predicition%20Part%202.mp4
+#EXTINF:100,128 - Better Prediction How .mp4
+lectures/Branches/128%20-%20Better%20Prediction%20How%20.mp4
+#EXTINF:118,129 - BTB Branch Target Buffer.mp4
+lectures/Branches/129%20-%20BTB%20Branch%20Target%20Buffer.mp4
+#EXTINF:167,130 - Realistic BTB.mp4
+lectures/Branches/130%20-%20Realistic%20BTB.mp4
+#EXTINF:66,131 - BTB Quiz Question.mp4
+lectures/Branches/131%20-%20BTB%20Quiz%20Question.mp4
+#EXTINF:157,132 - BTB Quiz Solution.mp4
+lectures/Branches/132%20-%20BTB%20Quiz%20Solution.mp4
+#EXTINF:98,133 - Direction Predictor.mp4
+lectures/Branches/133%20-%20Direction%20Predictor.mp4
+#EXTINF:107,134 - BTB and BHT Quiz Question.mp4
+lectures/Branches/134%20-%20BTB%20and%20BHT%20Quiz%20Question.mp4
+#EXTINF:122,135 - BTB and BHT Quiz Solution.mp4
+lectures/Branches/135%20-%20BTB%20and%20BHT%20Quiz%20Solution.mp4
+#EXTINF:39,136 - BTB and BHT Quiz 2 Question.mp4
+lectures/Branches/136%20-%20BTB%20and%20BHT%20Quiz%202%20Question.mp4
+#EXTINF:100,137 - BTB and BHT Quiz 2 Solution.mp4
+lectures/Branches/137%20-%20BTB%20and%20BHT%20Quiz%202%20Solution.mp4
+#EXTINF:44,138 - BTB and BHT Quiz 3 Question.mp4
+lectures/Branches/138%20-%20BTB%20and%20BHT%20Quiz%203%20Question.mp4
+#EXTINF:119,139 - BTB and BHT Quiz 3 Solution.mp4
+lectures/Branches/139%20-%20BTB%20and%20BHT%20Quiz%203%20Solution.mp4
+#EXTINF:21,140 - BTB and BHT Quiz 4 Question.mp4
+lectures/Branches/140%20-%20BTB%20and%20BHT%20Quiz%204%20Question.mp4
+#EXTINF:121,141 - BTB and BHT Quiz 4 Solution.mp4
+lectures/Branches/141%20-%20BTB%20and%20BHT%20Quiz%204%20Solution.mp4
+#EXTINF:36,142 - BTB and BHT Quiz 5 Question.mp4
+lectures/Branches/142%20-%20BTB%20and%20BHT%20Quiz%205%20Question.mp4
+#EXTINF:151,143 - BTB and BHT Quiz 5 Solution.mp4
+lectures/Branches/143%20-%20BTB%20and%20BHT%20Quiz%205%20Solution.mp4
+#EXTINF:260,144 - Problems With 1 Bit Predictions.mp4
+lectures/Branches/144%20-%20Problems%20With%201%20Bit%20Predictions.mp4
+#EXTINF:369,145 - 2 Bit Predictor.mp4
+lectures/Branches/145%20-%202%20Bit%20Predictor.mp4
+#EXTINF:252,146 - 2 Bit Predictor Initialization.mp4
+lectures/Branches/146%20-%202%20Bit%20Predictor%20Initialization.mp4
+#EXTINF:64,147 - 2BP Quiz Question.mp4
+lectures/Branches/147%20-%202BP%20Quiz%20Question.mp4
+#EXTINF:106,148 - 2BP Quiz Solution.mp4
+lectures/Branches/148%20-%202BP%20Quiz%20Solution.mp4
+#EXTINF:163,149 - 1BP -  2BP.mp4
+lectures/Branches/149%20-%201BP%20-%20%202BP.mp4
+#EXTINF:185,150 - History Based Predictors.mp4
+lectures/Branches/150%20-%20History%20Based%20Predictors.mp4
+#EXTINF:316,151 - 1 Bit History With 2 Bit Count.mp4
+lectures/Branches/151%20-%201%20Bit%20History%20With%202%20Bit%20Count.mp4
+#EXTINF:48,152 - 1 Bit History Quiz Question.mp4
+lectures/Branches/152%20-%201%20Bit%20History%20Quiz%20Question.mp4
+#EXTINF:217,153 - 1 Bit History Quiz Solution.mp4
+lectures/Branches/153%20-%201%20Bit%20History%20Quiz%20Solution.mp4
+#EXTINF:206,154 - 2 Bit History Predictor.mp4
+lectures/Branches/154%20-%202%20Bit%20History%20Predictor.mp4
+#EXTINF:284,155 - 2 Bit History Predictor 2.mp4
+lectures/Branches/155%20-%202%20Bit%20History%20Predictor%202.mp4
+#EXTINF:128,156 - N Bit History Predictor Quiz Question.mp4
+lectures/Branches/156%20-%20N%20Bit%20History%20Predictor%20Quiz%20Question.mp4
+#EXTINF:187,157 - N Bit History Predictor Quiz Solution.mp4
+lectures/Branches/157%20-%20N%20Bit%20History%20Predictor%20Quiz%20Solution.mp4
+#EXTINF:72,158 - History Predictor Quiz Question.mp4
+lectures/Branches/158%20-%20History%20Predictor%20Quiz%20Question.mp4
+#EXTINF:151,159 - History Predictor Quiz Solution.mp4
+lectures/Branches/159%20-%20History%20Predictor%20Quiz%20Solution.mp4
+#EXTINF:76,160 - History With Shared Counters part1.mp4
+lectures/Branches/160%20-%20History%20With%20Shared%20Counters%20part1.mp4
+#EXTINF:227,161 - History With Shared Counters part 2.mp4
+lectures/Branches/161%20-%20History%20With%20Shared%20Counters%20part%202.mp4
+#EXTINF:138,162 - History With Shared Counters part 3.mp4
+lectures/Branches/162%20-%20History%20With%20Shared%20Counters%20part%203.mp4
+#EXTINF:144,163 - PShare.mp4
+lectures/Branches/163%20-%20PShare.mp4
+#EXTINF:69,164 - PShare vs GShare Quiz Question.mp4
+lectures/Branches/164%20-%20PShare%20vs%20GShare%20Quiz%20Question.mp4
+#EXTINF:155,165 - PShare vs GShare Quiz Solution.mp4
+lectures/Branches/165%20-%20PShare%20vs%20GShare%20Quiz%20Solution.mp4
+#EXTINF:38,166 - GShare or PShare.mp4
+lectures/Branches/166%20-%20GShare%20or%20PShare.mp4
+#EXTINF:187,167 - Tournament Predictor.mp4
+lectures/Branches/167%20-%20Tournament%20Predictor.mp4
+#EXTINF:147,168 - Hierarchical Predictors .mp4
+lectures/Branches/168%20-%20Hierarchical%20Predictors%20.mp4
+#EXTINF:227,169 - Hierarchical Predictor Example.mp4
+lectures/Branches/169%20-%20Hierarchical%20Predictor%20Example.mp4
+#EXTINF:126,170 - Multi Predictor Quiz Question.mp4
+lectures/Branches/170%20-%20Multi%20Predictor%20Quiz%20Question.mp4
+#EXTINF:102,171 - Multi Predictor Quiz Solution.mp4
+lectures/Branches/171%20-%20Multi%20Predictor%20Quiz%20Solution.mp4
+#EXTINF:156,172 - Return Address Stack (RAS).mp4
+lectures/Branches/172%20-%20Return%20Address%20Stack%20%28RAS%29.mp4
+#EXTINF:134,173 - RAS.mp4
+lectures/Branches/173%20-%20RAS.mp4
+#EXTINF:10,174 - RAS Full Quiz Question.mp4
+lectures/Branches/174%20-%20RAS%20Full%20Quiz%20Question.mp4
+#EXTINF:233,175 - RAS Full Quiz Solution.mp4
+lectures/Branches/175%20-%20RAS%20Full%20Quiz%20Solution.mp4
+#EXTINF:207,176 - But How Do We Know Its A RET .mp4
+lectures/Branches/176%20-%20But%20How%20Do%20We%20Know%20Its%20A%20RET%20.mp4
+#EXTINF:20,177 - Branches Outro.mp4
+lectures/Branches/177%20-%20Branches%20Outro.mp4
+#EXTINF:12,246 - Tomasulo Intro.mp4
+lectures/Instruction_Scheduling/246%20-%20Tomasulo%20Intro.mp4
+#EXTINF:122,247 - Improving IPC.mp4
+lectures/Instruction_Scheduling/247%20-%20Improving%20IPC.mp4
+#EXTINF:105,248 - Tomasulos Algorithm.mp4
+lectures/Instruction_Scheduling/248%20-%20Tomasulos%20Algorithm.mp4
+#EXTINF:323,249 - The Picture.mp4
+lectures/Instruction_Scheduling/249%20-%20The%20Picture.mp4
+#EXTINF:81,250 - Issue.mp4
+lectures/Instruction_Scheduling/250%20-%20Issue.mp4
+#EXTINF:371,251 - Issue Example.mp4
+lectures/Instruction_Scheduling/251%20-%20Issue%20Example.mp4
+#EXTINF:40,252 - Issue Quiz Question.mp4
+lectures/Instruction_Scheduling/252%20-%20Issue%20Quiz%20Question.mp4
+#EXTINF:54,253 - Issue Quiz Solution.mp4
+lectures/Instruction_Scheduling/253%20-%20Issue%20Quiz%20Solution.mp4
+#EXTINF:173,254 - Dispatch.mp4
+lectures/Instruction_Scheduling/254%20-%20Dispatch.mp4
+#EXTINF:250,255 - More Than 1 Instruction Ready.mp4
+lectures/Instruction_Scheduling/255%20-%20More%20Than%201%20Instruction%20Ready.mp4
+#EXTINF:63,256 - Dispatch Quiz Question.mp4
+lectures/Instruction_Scheduling/256%20-%20Dispatch%20Quiz%20Question.mp4
+#EXTINF:91,257 - Dispatch Quiz Solution.mp4
+lectures/Instruction_Scheduling/257%20-%20Dispatch%20Quiz%20Solution.mp4
+#EXTINF:124,258 - Write Result (Broadcast).mp4
+lectures/Instruction_Scheduling/258%20-%20Write%20Result%20%28Broadcast%29.mp4
+#EXTINF:165,259 - More Than 1 Broadcast.mp4
+lectures/Instruction_Scheduling/259%20-%20More%20Than%201%20Broadcast.mp4
+#EXTINF:214,260 - Broadcast  Stale  Result.mp4
+lectures/Instruction_Scheduling/260%20-%20Broadcast%20%20Stale%20%20Result.mp4
+#EXTINF:154,261 - Review Part 1.mp4
+lectures/Instruction_Scheduling/261%20-%20Review%20Part%201.mp4
+#EXTINF:222,262 - Review Part 2.mp4
+lectures/Instruction_Scheduling/262%20-%20Review%20Part%202.mp4
+#EXTINF:81,263 - One Cycle Quiz Part 1 Question.mp4
+lectures/Instruction_Scheduling/263%20-%20One%20Cycle%20Quiz%20Part%201%20Question.mp4
+#EXTINF:134,264 - One Cycle Quiz Part 1 Solution.mp4
+lectures/Instruction_Scheduling/264%20-%20One%20Cycle%20Quiz%20Part%201%20Solution.mp4
+#EXTINF:27,265 - One Cycle Quiz Part 2 Question.mp4
+lectures/Instruction_Scheduling/265%20-%20One%20Cycle%20Quiz%20Part%202%20Question.mp4
+#EXTINF:154,266 - One Cycle Quiz Part 2 Solution.mp4
+lectures/Instruction_Scheduling/266%20-%20One%20Cycle%20Quiz%20Part%202%20Solution.mp4
+#EXTINF:34,267 - One Cycle Quiz Part 3 Question.mp4
+lectures/Instruction_Scheduling/267%20-%20One%20Cycle%20Quiz%20Part%203%20Question.mp4
+#EXTINF:90,268 - One Cycle Quiz Part 3 Solution.mp4
+lectures/Instruction_Scheduling/268%20-%20One%20Cycle%20Quiz%20Part%203%20Solution.mp4
+#EXTINF:23,269 - Tomasulos Algorithm Quiz Question.mp4
+lectures/Instruction_Scheduling/269%20-%20Tomasulos%20Algorithm%20Quiz%20Question.mp4
+#EXTINF:53,270 - Tomasulos Algorithm Quiz Solution.mp4
+lectures/Instruction_Scheduling/270%20-%20Tomasulos%20Algorithm%20Quiz%20Solution.mp4
+#EXTINF:141,271 - Load and Store Instructions.mp4
+lectures/Instruction_Scheduling/271%20-%20Load%20and%20Store%20Instructions.mp4
+#EXTINF:95,272 - Long Example Introduction.mp4
+lectures/Instruction_Scheduling/272%20-%20Long%20Example%20Introduction.mp4
+#EXTINF:140,273 - Long Example Cycles 1-2.mp4
+lectures/Instruction_Scheduling/273%20-%20Long%20Example%20Cycles%201-2.mp4
+#EXTINF:265,274 - Long Example Cycles 3-4.mp4
+lectures/Instruction_Scheduling/274%20-%20Long%20Example%20Cycles%203-4.mp4
+#EXTINF:224,275 - Long Example Cycles 5-6.mp4
+lectures/Instruction_Scheduling/275%20-%20Long%20Example%20Cycles%205-6.mp4
+#EXTINF:132,276 - Long Example Cycles 7-9.mp4
+lectures/Instruction_Scheduling/276%20-%20Long%20Example%20Cycles%207-9.mp4
+#EXTINF:125,277 - Long Example Cycles 10-end.mp4
+lectures/Instruction_Scheduling/277%20-%20Long%20Example%20Cycles%2010-end.mp4
+#EXTINF:246,278 - Timing Example.mp4
+lectures/Instruction_Scheduling/278%20-%20Timing%20Example.mp4
+#EXTINF:93,279 - Tomasulo Timing Quiz Part 1 Question.mp4
+lectures/Instruction_Scheduling/279%20-%20Tomasulo%20Timing%20Quiz%20Part%201%20Question.mp4
+#EXTINF:188,280 - Tomasulo Timing Quiz Part 1 Solution.mp4
+lectures/Instruction_Scheduling/280%20-%20Tomasulo%20Timing%20Quiz%20Part%201%20Solution.mp4
+#EXTINF:15,281 - Tomasulo Timing Quiz Part 2 Question.mp4
+lectures/Instruction_Scheduling/281%20-%20Tomasulo%20Timing%20Quiz%20Part%202%20Question.mp4
+#EXTINF:150,282 - Tomasulo Timing Quiz Part 2 Solution.mp4
+lectures/Instruction_Scheduling/282%20-%20Tomasulo%20Timing%20Quiz%20Part%202%20Solution.mp4
+#EXTINF:17,283 - Tomasulo Outro.mp4
+lectures/Instruction_Scheduling/283%20-%20Tomasulo%20Outro.mp4
