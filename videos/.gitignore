@@ -1,0 +1,6 @@
+# Ignore contents of this directory, likely to be mp4 files.
+*
+
+# Ignore exclusively this file so we can add the empty directory
+# to the repo.
+!.gitignore
