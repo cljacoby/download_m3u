@@ -1,0 +1,361 @@
+#EXTM3U
+#EXTINF:163,CS7210 Course Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_iy9hxmrk/format/url/flavorParamId/487091/video.mp4
+#EXTINF:57,Lesson 1 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_kxu9zogx/format/url/flavorParamId/487091/video.mp4
+#EXTINF:80,Examples of Distributed Systems
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_3rrtme6i/format/url/flavorParamId/487091/video.mp4
+#EXTINF:262,What is a Distributed System?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_7zimw1i6/format/url/flavorParamId/487091/video.mp4
+#EXTINF:188,A Simple Model of a Distributed System
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_5tf7258z/format/url/flavorParamId/487091/video.mp4
+#EXTINF:81,A Slightly More Complex Model of a Distributed…
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_bj7x63eh/format/url/flavorParamId/487091/video.mp4
+#EXTINF:325,Importance of a Model
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_tdq61o4w/format/url/flavorParamId/487091/video.mp4
+#EXTINF:390,What is Hard about Distributed Systems?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_fn3df45w/format/url/flavorParamId/487091/video.mp4
+#EXTINF:202,Properties of a Distributed System
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_0p3jc7ib/format/url/flavorParamId/487091/video.mp4
+#EXTINF:292,Correctness
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_01hba1ay/format/url/flavorParamId/487091/video.mp4
+#EXTINF:217,The CAP "Theorem"
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_8tovp1vw/format/url/flavorParamId/487091/video.mp4
+#EXTINF:29,Lesson 1 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_7y7h10u0/format/url/flavorParamId/487091/video.mp4
+#EXTINF:33,Lesson 2 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_lz6j8e4t/format/url/flavorParamId/487091/video.mp4
+#EXTINF:114,Client-Server Architecture
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_0jy8zk32/format/url/flavorParamId/487091/video.mp4
+#EXTINF:108,Challenges in Client-Server
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ijby10mi/format/url/flavorParamId/487091/video.mp4
+#EXTINF:184,Goals of RPC System
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_w1l8qdaj/format/url/flavorParamId/487091/video.mp4
+#EXTINF:156,Architecture of an RPC System
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_d5vbqoeh/format/url/flavorParamId/487091/video.mp4
+#EXTINF:273,Anatomy of an RPC Call
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_6qx4m43i/format/url/flavorParamId/487091/video.mp4
+#EXTINF:97,Invocation Semantics of RPC Operations 1
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_t3jceck8/format/url/flavorParamId/487091/video.mp4
+#EXTINF:238,Invocation Semantics of RPC Operations 2
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_63c7blli/format/url/flavorParamId/487091/video.mp4
+#EXTINF:48,Examples of RPC Systems
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_vvn31kgi/format/url/flavorParamId/487091/video.mp4
+#EXTINF:204,Examples of RPC Systems: gRPC
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ujsjo61e/format/url/flavorParamId/487091/video.mp4
+#EXTINF:26,Lesson 2 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ykt7oyt1/format/url/flavorParamId/487091/video.mp4
+#EXTINF:63,Lesson 3 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_65qfcut1/format/url/flavorParamId/487091/video.mp4
+#EXTINF:88,Why Do We Need Time?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_4ygu32se/format/url/flavorParamId/487091/video.mp4
+#EXTINF:260,Why is Measuring Time Hard in DS?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_11xbb6u0/format/url/flavorParamId/487091/video.mp4
+#EXTINF:101,Logical Time
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ijxwgr9v/format/url/flavorParamId/487091/video.mp4
+#EXTINF:116,Common Notations
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_0p1zj8ok/format/url/flavorParamId/487091/video.mp4
+#EXTINF:82,Concurrent Events
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_hxzsgb5l/format/url/flavorParamId/487091/video.mp4
+#EXTINF:142,Logical Clock
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_04vlbmra/format/url/flavorParamId/487091/video.mp4
+#EXTINF:672,Lamport's Scalar Clock
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_699ofau7/format/url/flavorParamId/487091/video.mp4
+#EXTINF:627,Vector Clock
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_7u3de86w/format/url/flavorParamId/487091/video.mp4
+#EXTINF:203,Matrix Clock
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_40xy9n89/format/url/flavorParamId/487091/video.mp4
+#EXTINF:21,Lesson 3 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_xlsilg44/format/url/flavorParamId/487091/video.mp4
+#EXTINF:163,CS7210 Course Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_iy9hxmrk/format/url/flavorParamId/487091/video.mp4
+#EXTINF:26,Lesson 4 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_mbbpi1zm/format/url/flavorParamId/487091/video.mp4
+#EXTINF:512,Global State, Snapshots, and Other Terminology
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_lru1vx0t/format/url/flavorParamId/487091/video.mp4
+#EXTINF:74,Challenges about State in Distributed Systems
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_lvhc2p04/format/url/flavorParamId/487091/video.mp4
+#EXTINF:102,System Model
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ysj4gsj7/format/url/flavorParamId/487091/video.mp4
+#EXTINF:218,Finding a Consistent Cut: Algorithm in Action
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_a0etskz8/format/url/flavorParamId/487091/video.mp4
+#EXTINF:238,Snapshot Algorithm
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_qx5hok5o/format/url/flavorParamId/487091/video.mp4
+#EXTINF:232,Global State
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_vmlibai4/format/url/flavorParamId/487091/video.mp4
+#EXTINF:169,Properties of a Global State
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_n60o0x1b/format/url/flavorParamId/487091/video.mp4
+#EXTINF:177,Benefits of a Global State: Evaluate Stable…
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_tu48m8a5/format/url/flavorParamId/487091/video.mp4
+#EXTINF:118,Definite vs. Possible State
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_mffwefix/format/url/flavorParamId/487091/video.mp4
+#EXTINF:33,Lesson 4 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_arm7sd0h/format/url/flavorParamId/487091/video.mp4
+#EXTINF:120,Preliminaries: System Model
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_u8utnh5b/format/url/flavorParamId/487091/video.mp4
+#EXTINF:66,Lesson 5 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_a35zgr89/format/url/flavorParamId/487091/video.mp4
+#EXTINF:173,What is Consensus?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_x6i1s03o/format/url/flavorParamId/487091/video.mp4
+#EXTINF:68,Preliminaries: Definitions
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_1nsvkzj3/format/url/flavorParamId/487091/video.mp4
+#EXTINF:96,FLP Theorem
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_hc98w7tu/format/url/flavorParamId/487091/video.mp4
+#EXTINF:208,Proof in a Nutshell
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_k4e3x7vk/format/url/flavorParamId/487091/video.mp4
+#EXTINF:78,Is Consensus Really Impossible?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_xn0ocv3c/format/url/flavorParamId/487091/video.mp4
+#EXTINF:28,Lesson 5 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_cjoe5s9z/format/url/flavorParamId/487091/video.mp4
+#EXTINF:49,Lesson 6 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_hfpr5pa7/format/url/flavorParamId/487091/video.mp4
+#EXTINF:109,Goal of Consensus Protocol
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_wgyuxrho/format/url/flavorParamId/487091/video.mp4
+#EXTINF:82,2PC and 3PC
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_swrjrgzd/format/url/flavorParamId/487091/video.mp4
+#EXTINF:135,Paxos History
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_vtrh2drl/format/url/flavorParamId/487091/video.mp4
+#EXTINF:134,Paxos Made Simple
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_n735zi2f/format/url/flavorParamId/487091/video.mp4
+#EXTINF:112,Paxos Made Simple: Phases
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_blc7wpkc/format/url/flavorParamId/487091/video.mp4
+#EXTINF:172,Paxos: Prepare Phase
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_mehuobwi/format/url/flavorParamId/487091/video.mp4
+#EXTINF:79,Paxos: Accept Phase
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_lca7r4eg/format/url/flavorParamId/487091/video.mp4
+#EXTINF:162,Paxos: Learn Phase
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_80ycoyvf/format/url/flavorParamId/487091/video.mp4
+#EXTINF:234,Corner Cases
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_2fwjqg2z/format/url/flavorParamId/487091/video.mp4
+#EXTINF:107,Paxos vs. FLP
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_m3avj6bw/format/url/flavorParamId/487091/video.mp4
+#EXTINF:139,Multi-Paxos
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_v1b3breg/format/url/flavorParamId/487091/video.mp4
+#EXTINF:102,Paxos in Practice
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ql2wwacf/format/url/flavorParamId/487091/video.mp4
+#EXTINF:112,RAFT
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_z234emcr/format/url/flavorParamId/487091/video.mp4
+#EXTINF:62,RAFT Overview
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_64aakwjt/format/url/flavorParamId/487091/video.mp4
+#EXTINF:143,RAFT Leader Election
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ao45odrc/format/url/flavorParamId/487091/video.mp4
+#EXTINF:355,RAFT Log Replication
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_i7u714p8/format/url/flavorParamId/487091/video.mp4
+#EXTINF:48,RAFT Safety
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_501isvyt/format/url/flavorParamId/487091/video.mp4
+#EXTINF:26,RAFT in Action
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_av39ctr0/format/url/flavorParamId/487091/video.mp4
+#EXTINF:19,Lesson 6 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_am711dc0/format/url/flavorParamId/487091/video.mp4
+#EXTINF:12,Lesson 7 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_mdoxjecn/format/url/flavorParamId/487091/video.mp4
+#EXTINF:123,Goal of Replication
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_8qx3pc7z/format/url/flavorParamId/487091/video.mp4
+#EXTINF:62,Replication Models
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_6931boyz/format/url/flavorParamId/487091/video.mp4
+#EXTINF:177,Replication Techniques
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_8jlpgfnx/format/url/flavorParamId/487091/video.mp4
+#EXTINF:102,Replication and Consensus
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_cxuy2qbl/format/url/flavorParamId/487091/video.mp4
+#EXTINF:256,Chain Replication
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_xpwicqum/format/url/flavorParamId/487091/video.mp4
+#EXTINF:251,CRAQ
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_0pqqj109/format/url/flavorParamId/487091/video.mp4
+#EXTINF:178,CRAQ vs. CR Scalability?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_1hkndccv/format/url/flavorParamId/487091/video.mp4
+#EXTINF:72,Lesson 7 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_rzizdhn7/format/url/flavorParamId/487091/video.mp4
+#EXTINF:17,Lesson 8 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_nr5xjqce/format/url/flavorParamId/487091/video.mp4
+#EXTINF:232,Some Taxonomy
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_sp0vxttj/format/url/flavorParamId/487091/video.mp4
+#EXTINF:328,Rollback-Recovery Idea
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_qq4ut9wv/format/url/flavorParamId/487091/video.mp4
+#EXTINF:262,Basic Mechanisms
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_jt2qfbo4/format/url/flavorParamId/487091/video.mp4
+#EXTINF:72,Checkpointing Approaches
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_hboxlrho/format/url/flavorParamId/487091/video.mp4
+#EXTINF:253,Uncoordinated Checkpointing
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_eerjpl0e/format/url/flavorParamId/487091/video.mp4
+#EXTINF:186,Coordinated Checkpointing
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_bkga45bp/format/url/flavorParamId/487091/video.mp4
+#EXTINF:123,Communication-Induced Checkpoints
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_19bk4ih9/format/url/flavorParamId/487091/video.mp4
+#EXTINF:248,Logging
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_3iyqi9ie/format/url/flavorParamId/487091/video.mp4
+#EXTINF:147,Which Method to Use?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_o3foj2yb/format/url/flavorParamId/487091/video.mp4
+#EXTINF:51,Lesson 8 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_6dws9jqo/format/url/flavorParamId/487091/video.mp4
+#EXTINF:24,Lesson 9 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_o547j97h/format/url/flavorParamId/487091/video.mp4
+#EXTINF:244,What are Distributed Transactions?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_k9pyjdmu/format/url/flavorParamId/487091/video.mp4
+#EXTINF:108,Spanner Brief
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_2lr0immi/format/url/flavorParamId/487091/video.mp4
+#EXTINF:229,Spanner Stack
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_egfsakxv/format/url/flavorParamId/487091/video.mp4
+#EXTINF:189,Consistency Requirements
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_5okrpnes/format/url/flavorParamId/487091/video.mp4
+#EXTINF:294,True Time
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_zk9p4v4s/format/url/flavorParamId/487091/video.mp4
+#EXTINF:426,Ordering Write Transactions with TT Timestamps
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_v6cg09w8/format/url/flavorParamId/487091/video.mp4
+#EXTINF:159,Read Transactions
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_gpbjqtg6/format/url/flavorParamId/487091/video.mp4
+#EXTINF:280,No TrueTime?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_38jnsib1/format/url/flavorParamId/487091/video.mp4
+#EXTINF:256,Another DDB Example: AWS Aurora
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_wwpanhd2/format/url/flavorParamId/487091/video.mp4
+#EXTINF:39,Lesson 9 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_r979l96u/format/url/flavorParamId/487091/video.mp4
+#EXTINF:82,Lesson 10 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_vfiwcsuc/format/url/flavorParamId/487091/video.mp4
+#EXTINF:316,Why is Consistency Important and Hard?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_2cavycz5/format/url/flavorParamId/487091/video.mp4
+#EXTINF:74,Key-Value Store
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_2qtm705x/format/url/flavorParamId/487091/video.mp4
+#EXTINF:150,Memcached
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_xp1c17b6/format/url/flavorParamId/487091/video.mp4
+#EXTINF:451,Look-Aside Cache Design
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_qc0epefo/format/url/flavorParamId/487091/video.mp4
+#EXTINF:617,Mechanisms in Memcached
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_cr9s70ke/format/url/flavorParamId/487091/video.mp4
+#EXTINF:253,Casual Consistency
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_i9njzzut/format/url/flavorParamId/487091/video.mp4
+#EXTINF:40,Lesson 10 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_zruij26g/format/url/flavorParamId/487091/video.mp4
+#EXTINF:57,Lesson 11 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_axmh0szi/format/url/flavorParamId/487091/video.mp4
+#EXTINF:280,Communication Support Assumed So Far
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_cqgo76dk/format/url/flavorParamId/487091/video.mp4
+#EXTINF:250,Interconnect Support
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_el6gbqh9/format/url/flavorParamId/487091/video.mp4
+#EXTINF:121,Peer to Peer Systems
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_wnhfmzpk/format/url/flavorParamId/487091/video.mp4
+#EXTINF:228,Connectivity in P2P
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_7134vc8c/format/url/flavorParamId/487091/video.mp4
+#EXTINF:184,Distributed Hash Table (DHT)
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_yhn5xk5w/format/url/flavorParamId/487091/video.mp4
+#EXTINF:383,Chord
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_o2pqznrg/format/url/flavorParamId/487091/video.mp4
+#EXTINF:172,Hierarchical Systems
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ey64d91j/format/url/flavorParamId/487091/video.mp4
+#EXTINF:193,Heterogeneous Systems: A Mobile Network Example
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_mkwrc1sf/format/url/flavorParamId/487091/video.mp4
+#EXTINF:420,Alternative Algorithms
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_yao6rvby/format/url/flavorParamId/487091/video.mp4
+#EXTINF:63,Lesson 11 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_iu0jctqz/format/url/flavorParamId/487091/video.mp4
+#EXTINF:87,Lesson 12 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_evy13qe8/format/url/flavorParamId/487091/video.mp4
+#EXTINF:231,Data Processing at Scale
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_i3s08p68/format/url/flavorParamId/487091/video.mp4
+#EXTINF:348,MapReduce Brief
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_k3fssxj5/format/url/flavorParamId/487091/video.mp4
+#EXTINF:288,Design Decisions MapReduce
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ae46rp08/format/url/flavorParamId/487091/video.mp4
+#EXTINF:219,Limitations of MapReduce
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_e952zdir/format/url/flavorParamId/487091/video.mp4
+#EXTINF:121,Spark
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_rsv4l7hc/format/url/flavorParamId/487091/video.mp4
+#EXTINF:112,Resilient Distributed Datasets (RDDs)
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_eklw7a8u/format/url/flavorParamId/487091/video.mp4
+#EXTINF:177,RDDs through Example
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_28wm3f1c/format/url/flavorParamId/487091/video.mp4
+#EXTINF:154,RDD Transformations
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_pbecmk9l/format/url/flavorParamId/487091/video.mp4
+#EXTINF:198,Did Spark Achieve its Goal?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_hgtedr82/format/url/flavorParamId/487091/video.mp4
+#EXTINF:41,Lesson 12 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_pl3r0vub/format/url/flavorParamId/487091/video.mp4
+#EXTINF:91,Lesson 13 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_afj4lcv3/format/url/flavorParamId/487091/video.mp4
+#EXTINF:333,Datacenter Trends
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_gwe8v5uh/format/url/flavorParamId/487091/video.mp4
+#EXTINF:245,What is RDMA?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_xwm7om4e/format/url/flavorParamId/487091/video.mp4
+#EXTINF:171,RDMA-Specialized RPC
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_77324rks/format/url/flavorParamId/487091/video.mp4
+#EXTINF:205,What if Memory is Persistent?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ow6rktwf/format/url/flavorParamId/487091/video.mp4
+#EXTINF:148,Disaggregation
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_jdkan91x/format/url/flavorParamId/487091/video.mp4
+#EXTINF:27,Systems Software in Disaggregated Systems
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_zza2xdan/format/url/flavorParamId/487091/video.mp4
+#EXTINF:230,LegoOS Approach
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_p46s69uo/format/url/flavorParamId/487091/video.mp4
+#EXTINF:162,Disaggregating CPU and Memory with LegoOS
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_p4b4ltbs/format/url/flavorParamId/487091/video.mp4
+#EXTINF:320,LegoOS Select Experimental Result
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_hk0796u5/format/url/flavorParamId/487091/video.mp4
+#EXTINF:224,Management Stack in Datacenters
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_nb1cs25o/format/url/flavorParamId/487091/video.mp4
+#EXTINF:160,Datacenter Management at Scale
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_4i53fgu5/format/url/flavorParamId/487091/video.mp4
+#EXTINF:208,Overview of Borg Operations
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ssxkfkr4/format/url/flavorParamId/487091/video.mp4
+#EXTINF:398,Achieving Scalability
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_mj7ddxb7/format/url/flavorParamId/487091/video.mp4
+#EXTINF:136,Experimental Results
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_zx5zffuo/format/url/flavorParamId/487091/video.mp4
+#EXTINF:75,Lesson 13 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_9pcw0zp7/format/url/flavorParamId/487091/video.mp4
+#EXTINF:41,Lesson 14 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_2wuxw9rk/format/url/flavorParamId/487091/video.mp4
+#EXTINF:101,Distributed Machine Learning
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_udt67jzx/format/url/flavorParamId/487091/video.mp4
+#EXTINF:207,Distributed Machine Learning Approaches
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_e9p233ka/format/url/flavorParamId/487091/video.mp4
+#EXTINF:103,Geo-Distributed ML
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_xhn1zedo/format/url/flavorParamId/487091/video.mp4
+#EXTINF:141,Leverage Approximation
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_r26vrc4f/format/url/flavorParamId/487091/video.mp4
+#EXTINF:256,Gaia: An Approximate Synchronous Parallel System
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_hknkh9bi/format/url/flavorParamId/487091/video.mp4
+#EXTINF:144,Tradeoffs of Using Global Model
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_22u3yqbq/format/url/flavorParamId/487091/video.mp4
+#EXTINF:342,Collaborative Learning with Cartel
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_q1u8sda1/format/url/flavorParamId/487091/video.mp4
+#EXTINF:78,Beyond Geo-Distributed Training
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_n07m7igi/format/url/flavorParamId/487091/video.mp4
+#EXTINF:42,Lesson 14 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_j76lbl9c/format/url/flavorParamId/487091/video.mp4
+#EXTINF:21,Lesson 16 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_mkroknb7/format/url/flavorParamId/487091/video.mp4
+#EXTINF:184,Tiers in Computing
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_a74nhk8w/format/url/flavorParamId/487091/video.mp4
+#EXTINF:133,Why Edge Computing?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ezilw2wp/format/url/flavorParamId/487091/video.mp4
+#EXTINF:204,Closing the Latency/Bandwidth Gap
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_wn9ugf9j/format/url/flavorParamId/487091/video.mp4
+#EXTINF:184,Is Edge Computing New?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_arr72h0w/format/url/flavorParamId/487091/video.mp4
+#EXTINF:221,Edge Computing Drivers?
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_nk7f6bbp/format/url/flavorParamId/487091/video.mp4
+#EXTINF:212,Distributed Edge Computing
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_qti4obf9/format/url/flavorParamId/487091/video.mp4
+#EXTINF:230,IoT and DIstributed Transactions
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_oitvguwz/format/url/flavorParamId/487091/video.mp4
+#EXTINF:270,Transactuations
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_hh7tzkoh/format/url/flavorParamId/487091/video.mp4
+#EXTINF:193,Evaluation of Transactuations
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_shm6a53g/format/url/flavorParamId/487091/video.mp4
+#EXTINF:47,Lesson 16 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_48gxrvrc/format/url/flavorParamId/487091/video.mp4
+#EXTINF:53,Lesson 15 Introduction
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_994fy0b9/format/url/flavorParamId/487091/video.mp4
+#EXTINF:122,Byzantine Failure and Byzantine Generals
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_s18w9etw/format/url/flavorParamId/487091/video.mp4
+#EXTINF:95,Byzantine Fault Tolerance
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_reo309kx/format/url/flavorParamId/487091/video.mp4
+#EXTINF:180,Practical Byzantine Fault Tolerance: pBFT
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_vkt4qkdz/format/url/flavorParamId/487091/video.mp4
+#EXTINF:203,pBFT Algorithm
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ohmb9ohh/format/url/flavorParamId/487091/video.mp4
+#EXTINF:239,Byzantine Consensus vs. Blockchain
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_ujn03hce/format/url/flavorParamId/487091/video.mp4
+#EXTINF:150,How to Learn More
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_3mjucyl3/format/url/flavorParamId/487091/video.mp4
+#EXTINF:31,Lesson 15 Summary
+https://www.kaltura.com/p/2019031/sp/0/playManifest/entryId/1_08sarfp4/format/url/flavorParamId/487091/video.mp4
